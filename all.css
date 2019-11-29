@@ -1,0 +1,61 @@
+.jumbotron-bg{
+  background-image: url(https://i.imgur.com/WRn5HRF.png);
+  width: auto;
+  height:380px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-color: #fff;
+}
+.bg-cover{
+  background-size: cover cover;
+  background-position: center center;
+}
+#areaId{
+  opacity:0.8;
+  border-radius: 3px;
+  cursor:pointer;
+  font-size: 20px;
+  text-align: center;
+}
+.menu{
+  margin-top:-60px;
+  background: #fff;
+  border-radius: 5px;
+  border:1px solid gainsboro;
+  padding-bottom: 20px;
+}
+.line{
+  border-top:1px dashed #559AC8;
+  position: relative;
+}
+.line .icon{
+  position: absolute;
+  z-index: 100;
+  top:-12px;
+  left: 49%;
+  display: flex;
+  background-image: url(https://upload.cc/i1/2019/02/02/MsXzZ2.png);
+  height: 24px;
+  width: 24px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #fff;
+}
+.line .icon::after{
+  content: '';
+  display: block;
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  border: 1px solid #559AC8;
+  
+}
+.listTitle{
+  font-size: 36px;
+  color: #8A82CC;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 65px;
+  margin-bottom:30px;
+}
