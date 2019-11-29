@@ -1,6 +1,6 @@
 # 六角學院 高雄旅遊網
 
-* [DEMO](https://huangyitinging.github.io/BMI/)
+* [DEMO](https://huangyitinging.github.io/Kaohsiung-Travel/)
 
 ![GITHUB](https://i.imgur.com/T6mSzX5.png)
 
